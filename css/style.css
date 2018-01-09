@@ -1,0 +1,129 @@
+body{margin:0;
+	padding:0;}
+h2 /*JASONMARTIN*/{
+	font-family: "Century Gothic";
+	font-size:104px;
+	/*font-weight: 700;*/
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:12.27px;
+	color:#0099ff;
+}
+h3 /*UX / UI DESIGNER*/{
+	font-family: "Open Sans - Semibold", Regular;
+	font-size:50px;
+	font-weight: 400;
+	text-transform:uppercase;
+	letter-spacing:7.49px;
+	color:#000000;
+}
+h4 /*EXPIRIENCE, SKILLS*/{
+	font-family: "Century Gothic";
+	font-size:46px;
+	/*font-weight:700;*/
+	font-weight:Bold;
+	text-transform:uppercase;
+	letter-spacing:2.29px;
+	color:#000000;
+	background-color:#e5e5e5;
+}
+h5 /*Lead  Web Designer, Senior  Web Designer*/{
+	font-family: Century Gothic;
+	font-size:33px;
+	/*font-weight: 700;*/
+	font-weight:Bold;
+	color:#000000;
+	margin:1em 0;
+}
+p {
+	font-family: Open Sans, Regular;
+	font-size:35px;
+	font-weight: 400;
+	color:#000000;
+}
+.telephone{
+	display: flex;
+	flex-direction:row;
+	justify-content: flex-start;
+	align-items: center;
+	background-color:#0073bf;
+	}
+.website{
+	display: flex;
+	flex-direction:row;
+	align-items: center;
+	justify-content: flex-start;
+	background-color:#0099ff;
+	}
+.email{
+	display: flex;
+	flex-direction:row;
+	justify-content: flex-start;
+	align-items: center;
+	background-color:#00d9ff;
+	}
+.p-gray /*gray text background*/{
+	background-color:#e5e5e5;
+}
+.jason{
+	width:67%;
+	float:right;
+	/*display: flex;*/
+	/*justify-content: flex-end;*/
+	background-color: #fff;
+}
+.gray{
+	width: 33%;
+	float:left;
+	/*display: flex;*/
+	/*justify-content: flex-start;*/
+	background-color:#e5e5e5;
+}
+.contact{
+	display: flex;
+	flex-direction:column;
+}
+.contact img {
+	height: 70px;
+}
+.birthday{
+	display: flex;
+	flex-direction:row;
+	justify-content: space-between;
+}
+.hob-end{
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around;
+}
+.experience{
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around;
+}
+.web{
+	width: 33%;
+}
+.soft{
+	width: 66%;
+}
+.img-hob{
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hobbies{
+	flex: 1;
+	justify-content: center;
+}
+.hobbies h5{
+	text-align: center; /*for 3child bowling*/
+	/*display: flex;*/
+	/*justify-content: center;*/
+	/*align-items: center;*/
+}
+.jasonphoto{
+	height: 500px;
+	background-color:#e5e5e5;
+}
